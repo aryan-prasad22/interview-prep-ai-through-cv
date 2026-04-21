@@ -169,6 +169,12 @@ streamlit run ui/streamlit_app.py
 
 ---
 
+## 🌐 Live Demo
+
+https://interview-prep-ai-through-cv-aryan.streamlit.app
+
+---
+
 ## 📄 License
 
 MIT License
