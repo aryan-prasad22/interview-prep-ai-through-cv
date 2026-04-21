@@ -35,19 +35,19 @@ An AI-powered application that analyzes resumes and generates personalized inter
 interview-prep-ai/
 │
 ├── app/
-│   ├── chains/
-│   ├── parsers/
-│   ├── rag/
-│   ├── services/
+│ ├── chains/ # LLM chains
+│ ├── parsers/ # Resume parsing
+│ ├── rag/ # Embeddings & retrieval
+│ ├── services/ # ATS + improvements
 │
 ├── ui/
-│   └── streamlit_app.py
+│ └── streamlit_app.py
 │
-├── screenshots/        # Screenshots folder
-│   ├── upload-ui.png
-│   ├── ats-score.png
-│   ├── questions.png
-│   └── improvement.png
+├── screenshots/
+│ ├── upload-ui.png
+│ ├── ats-score.png
+│ ├── questions.png
+│ └── improvement.png
 │
 ├── requirements.txt
 ├── README.md
